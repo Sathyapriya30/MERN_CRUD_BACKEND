@@ -88,6 +88,16 @@
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="KYC" vertex="1">
           <mxGeometry height="24" width="40" x="240" y="456" as="geometry" />
         </mxCell>
+        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-99" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="307" y="530" />
+              <mxPoint x="307" y="530" />
+            </Array>
+            <mxPoint x="307" y="520" as="sourcePoint" />
+            <mxPoint x="307" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Customer Potential" vertex="1">
           <mxGeometry height="30" width="120" x="240" y="490" as="geometry" />
         </mxCell>
@@ -111,6 +121,18 @@
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fetch Collections" vertex="1">
           <mxGeometry height="30" width="60" x="431" y="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-98" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="288" y="570" as="sourcePoint" />
+            <mxPoint x="288" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OM Login" vertex="1">
+          <mxGeometry height="40" width="120" x="240" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Approval /Reject" vertex="1">
+          <mxGeometry height="30" width="60" x="317" y="531" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
