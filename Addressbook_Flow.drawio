@@ -80,10 +80,10 @@
           <mxGeometry height="30" width="170" x="1" y="230" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Company" vertex="1">
-          <mxGeometry height="30" width="70" x="240" y="333" as="geometry" />
+          <mxGeometry height="30" width="130" x="240" y="333" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contact" vertex="1">
-          <mxGeometry height="30" width="60" x="240" y="373" as="geometry" />
+          <mxGeometry height="30" width="130" x="240" y="373" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Terms and Conditions" vertex="1">
           <mxGeometry height="30" width="130" x="240" y="415" as="geometry" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="KYC" vertex="1">
-          <mxGeometry height="24" width="40" x="240" y="456" as="geometry" />
+          <mxGeometry height="24" width="130" x="240" y="456" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-99" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Customer Potential" vertex="1">
-          <mxGeometry height="30" width="120" x="240" y="490" as="geometry" />
+          <mxGeometry height="30" width="130" x="240" y="490" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-71" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OM Login" vertex="1">
-          <mxGeometry height="40" width="120" x="240" y="570" as="geometry" />
+          <mxGeometry height="30" width="120" x="240" y="570" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Approval / Reject" vertex="1">
           <mxGeometry height="30" width="60" x="317" y="531" as="geometry" />
