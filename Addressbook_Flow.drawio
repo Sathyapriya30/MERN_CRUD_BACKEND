@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMJVwLT_ou5Uxb-YbvSl-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="FEDRS" vertex="1">
-          <mxGeometry height="40" width="120" x="391" y="70" as="geometry" />
+          <mxGeometry height="50" width="120" x="391" y="60" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-70" edge="1" parent="1" source="SMJVwLT_ou5Uxb-YbvSl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="SMJVwLT_ou5Uxb-YbvSl-2">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMJVwLT_ou5Uxb-YbvSl-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ERP" vertex="1">
-          <mxGeometry height="50" width="120" x="210" y="10" as="geometry" />
+          <mxGeometry height="60" width="120" x="210" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-34" edge="1" parent="1" source="GT5rQaX9_ZSY8cpCEeJe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GT5rQaX9_ZSY8cpCEeJe-23">
           <mxGeometry relative="1" as="geometry" />
@@ -88,9 +88,10 @@
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Terms and Conditions" vertex="1">
           <mxGeometry height="30" width="130" x="240" y="415" as="geometry" />
         </mxCell>
-        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-103" edge="1" parent="1" source="GT5rQaX9_ZSY8cpCEeJe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-103" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="468" as="targetPoint" />
+            <mxPoint x="590" y="470" as="sourcePoint" />
+            <mxPoint x="280" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="KYC" vertex="1">
@@ -148,10 +149,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-100" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Existing Customers&lt;br&gt;KYC" vertex="1">
-          <mxGeometry height="80" width="80" x="550" y="50" as="geometry" />
+          <mxGeometry height="90" width="80" x="550" y="40" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Approval / Reject" vertex="1">
-          <mxGeometry height="30" width="120" x="470" y="438" as="geometry" />
+          <mxGeometry height="30" width="120" x="470" y="439" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
