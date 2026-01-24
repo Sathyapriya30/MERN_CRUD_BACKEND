@@ -53,7 +53,7 @@
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-22" edge="1" parent="1" source="GT5rQaX9_ZSY8cpCEeJe-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GT5rQaX9_ZSY8cpCEeJe-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;Check&lt;/div&gt;&lt;div&gt;This&amp;nbsp;&lt;/div&gt;Customers Against&amp;nbsp;&lt;br&gt;(No Enquiry&lt;br&gt;No Qtns)" vertex="1">
+        <mxCell id="GT5rQaX9_ZSY8cpCEeJe-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;Check&lt;/div&gt;&lt;div&gt;This&amp;nbsp;&lt;/div&gt;Customers Against&amp;nbsp;&lt;br&gt;(Enquiry&lt;br&gt;&amp;amp; Qtns)&lt;br&gt;?" vertex="1">
           <mxGeometry height="151" width="90" x="40" y="79" as="geometry" />
         </mxCell>
         <mxCell id="GT5rQaX9_ZSY8cpCEeJe-93" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;">
