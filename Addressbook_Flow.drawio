@@ -151,7 +151,7 @@
           <mxGeometry height="58" width="120" x="584" y="116" as="geometry" />
         </mxCell>
         <mxCell id="epveq70Zod5m0uNMuMop-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Addressbook App" vertex="1">
-          <mxGeometry height="33" width="128" x="404" y="78.5" as="geometry" />
+          <mxGeometry height="33" width="113" x="442" y="78.5" as="geometry" />
         </mxCell>
         <mxCell id="epveq70Zod5m0uNMuMop-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add KP" vertex="1">
           <mxGeometry height="28" width="72" x="391" y="375" as="geometry" />
@@ -186,19 +186,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="epveq70Zod5m0uNMuMop-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Customer" vertex="1">
-          <mxGeometry height="30" width="130" x="415" y="135" as="geometry" />
+          <mxGeometry height="30" width="87" x="459" y="135" as="geometry" />
         </mxCell>
         <mxCell id="epveq70Zod5m0uNMuMop-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contact" vertex="1">
-          <mxGeometry height="30" width="130" x="415" y="184" as="geometry" />
+          <mxGeometry height="30" width="86" x="459" y="184" as="geometry" />
         </mxCell>
         <mxCell id="epveq70Zod5m0uNMuMop-65" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="112" as="sourcePoint" />
-            <mxPoint x="415" y="258" as="targetPoint" />
+            <mxPoint x="459" y="111" as="sourcePoint" />
+            <mxPoint x="459" y="257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="epveq70Zod5m0uNMuMop-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="KYC" vertex="1">
-          <mxGeometry height="24" width="130" x="415" y="233" as="geometry" />
+          <mxGeometry height="24" width="86" x="459" y="233" as="geometry" />
         </mxCell>
         <mxCell id="epveq70Zod5m0uNMuMop-71" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
