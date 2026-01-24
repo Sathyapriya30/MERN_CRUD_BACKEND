@@ -227,13 +227,14 @@
             <mxPoint x="547" y="152.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdrToKd2nhpmgXYorG8w-53" edge="1" parent="1" source="tdrToKd2nhpmgXYorG8w-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;endArrow=oval;endFill=1;">
+        <mxCell id="tdrToKd2nhpmgXYorG8w-56" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;endArrow=oval;endFill=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="200" as="targetPoint" />
+            <mxPoint x="638" y="167" as="sourcePoint" />
+            <mxPoint x="638" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tdrToKd2nhpmgXYorG8w-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="New Customers Visit&lt;br&gt;(Add Company)" vertex="1">
-          <mxGeometry height="47" width="136" x="582" y="118" as="geometry" />
+          <mxGeometry height="47" width="138" x="582" y="118" as="geometry" />
         </mxCell>
         <mxCell id="tdrToKd2nhpmgXYorG8w-52" edge="1" parent="1" source="epveq70Zod5m0uNMuMop-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
