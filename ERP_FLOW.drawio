@@ -403,8 +403,8 @@
             <mxRectangle height="51" width="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZiJmpannB6cbguLDXdB-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div align=&quot;left&quot;&gt;Contact KP Conditions [ Collections : customers , customer_contacts ]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="519" x="121" y="895" as="geometry" />
+        <mxCell id="dZiJmpannB6cbguLDXdB-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div align=&quot;left&quot;&gt;Contact KP Conditions &amp;amp; Collections : customers [ status : 1 , 2 ]&amp;nbsp; , customer_contacts [ status : 1 ]&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="579" x="121" y="895" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
