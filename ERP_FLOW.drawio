@@ -403,7 +403,7 @@
             <mxRectangle height="56" width="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZiJmpannB6cbguLDXdB-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div align=&quot;left&quot;&gt;Contact : Group KP Conditions [ Collection : customer , customer_contact ]&lt;/div&gt;" vertex="1">
+        <mxCell id="dZiJmpannB6cbguLDXdB-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div align=&quot;left&quot;&gt;Contact KP Conditions [ Collections : customer , customer_contact ]&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="519" x="121" y="895" as="geometry" />
         </mxCell>
       </root>
