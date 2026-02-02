@@ -94,8 +94,8 @@
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;fontStyle=1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539.5" y="712" as="sourcePoint" />
-            <mxPoint x="449.5" y="712" as="targetPoint" />
+            <mxPoint x="539.5" y="713" as="sourcePoint" />
+            <mxPoint x="449.5" y="713" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="OM Login&lt;br&gt;Customer Potential" vertex="1">
