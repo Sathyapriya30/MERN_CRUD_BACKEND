@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="&lt;div&gt;&lt;br&gt;Check&lt;/div&gt;&lt;div&gt;This&amp;nbsp;&lt;/div&gt;Customers Against&amp;nbsp;&lt;br&gt;(Enquiry&lt;br&gt;&amp;amp; Qtns)&lt;br&gt;?" vertex="1">
-          <mxGeometry height="151" width="90" x="117.5" y="274" as="geometry" />
+          <mxGeometry height="151" width="90" x="113.5" y="274" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;fontStyle=1">
           <mxGeometry relative="1" as="geometry">
@@ -187,7 +187,7 @@
           <mxGeometry height="31" width="86" x="551.5" y="433" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Ex Customer" vertex="1">
-          <mxGeometry height="30" width="120" x="103.5" y="641" as="geometry" />
+          <mxGeometry height="30" width="120" x="97.5" y="641" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=none;" value="&lt;b&gt;Add / Edit Complement&lt;/b&gt;" vertex="1">
           <mxGeometry height="32" width="111" x="469.5" y="615" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Inactive : 0" vertex="1">
-          <mxGeometry height="20" width="80" x="123.5" y="590" as="geometry" />
+          <mxGeometry height="20" width="80" x="117.5" y="590" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-52" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -408,13 +408,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;b&gt;Re-Assign Employee&lt;/b&gt;&lt;br&gt;(Transfer customer allocation to another employee)" vertex="1">
-          <mxGeometry height="60" width="130" x="170" y="477" as="geometry" />
+          <mxGeometry height="60" width="130" x="163" y="477" as="geometry" />
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-15" edge="1" parent="1" source="8LkMtRWojpyo3q0LtdjA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="XqdnJOQHn98dfQkK96ew-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8LkMtRWojpyo3q0LtdjA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;strong data-start=&quot;225&quot; data-end=&quot;248&quot;&gt;Re-Assign Enquiries&lt;/strong&gt;&lt;br data-start=&quot;248&quot; data-end=&quot;251&quot;&gt;&lt;em data-start=&quot;251&quot; data-end=&quot;293&quot;&gt;(Transfer enquiries to another employee)&lt;/em&gt;" vertex="1">
-          <mxGeometry height="60" width="125" x="30" y="477" as="geometry" />
+        <mxCell id="8LkMtRWojpyo3q0LtdjA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;strong data-start=&quot;225&quot; data-end=&quot;248&quot;&gt;Re-Assign Enquiries&lt;/strong&gt;&lt;br data-start=&quot;248&quot; data-end=&quot;251&quot;&gt;&lt;span data-start=&quot;251&quot; data-end=&quot;293&quot;&gt;(Transfer enquiries to another employee)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="125" x="27" y="477" as="geometry" />
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;">
           <mxGeometry relative="1" as="geometry">
