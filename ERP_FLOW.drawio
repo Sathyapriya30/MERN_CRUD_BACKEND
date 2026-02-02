@@ -152,8 +152,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XqdnJOQHn98dfQkK96ew-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Existing Cust`s Visit /&lt;br&gt;Planned Cust`s Visit" vertex="1">
-          <mxGeometry height="44" width="126" x="803.5" y="205" as="geometry" />
+        <mxCell id="XqdnJOQHn98dfQkK96ew-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Existing Customer&amp;nbsp; Visit /&lt;br&gt;Planned Customer Visit" vertex="1">
+          <mxGeometry height="44" width="159.5" x="803.5" y="205" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="New KP" vertex="1">
           <mxGeometry height="28" width="72" x="840.5" y="384" as="geometry" />
@@ -343,7 +343,7 @@
         <mxCell id="dZiJmpannB6cbguLDXdB-309" parent="dZiJmpannB6cbguLDXdB-308" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1">
           <mxGeometry height="48" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="dZiJmpannB6cbguLDXdB-310" parent="dZiJmpannB6cbguLDXdB-309" style="connectable=0;recursiveResize=0;strokeColor=#E07A5F;fillColor=#F2CC8F;align=center;fontStyle=0;fontColor=#393C56;html=1;labelBackgroundColor=none;" value="&lt;b&gt;&lt;span&gt;Contact View&lt;/span&gt;&lt;/b&gt;&lt;br&gt;( KP - Key Person )" vertex="1">
+        <mxCell id="dZiJmpannB6cbguLDXdB-310" parent="dZiJmpannB6cbguLDXdB-309" style="connectable=0;recursiveResize=0;strokeColor=#E07A5F;fillColor=#F2CC8F;align=center;fontStyle=0;fontColor=#393C56;html=1;labelBackgroundColor=none;" value="&lt;b&gt;&lt;span&gt;Contact View&lt;/span&gt;&lt;/b&gt;&lt;br&gt;(KP - Key Person)" vertex="1">
           <mxGeometry height="48" width="170" as="geometry">
             <mxRectangle height="48" width="170" as="alternateBounds" />
           </mxGeometry>
@@ -372,7 +372,7 @@
             <mxRectangle height="44" width="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZiJmpannB6cbguLDXdB-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;div align=&quot;left&quot;&gt;Contact KP Conditions &amp;amp; Collections : customers [ status : 1 , 2 ]&amp;nbsp; , customer_contacts [ status : 1 ]&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="dZiJmpannB6cbguLDXdB-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;strong data-start=&quot;2383&quot; data-end=&quot;2424&quot;&gt;Contact (KP) Conditions &amp;amp; Collections&lt;/strong&gt;&lt;br&gt;customers [status IN (1,2)], customer_contacts [status = 1]" vertex="1">
           <mxGeometry height="30" width="579" x="38" y="758" as="geometry" />
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-16" edge="1" parent="1" source="8LkMtRWojpyo3q0LtdjA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="XqdnJOQHn98dfQkK96ew-51">
