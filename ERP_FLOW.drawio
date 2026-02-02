@@ -224,7 +224,7 @@
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-55" connectable="0" parent="XqdnJOQHn98dfQkK96ew-54" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontStyle=1;labelBackgroundColor=none;" value="&lt;div align=&quot;center&quot;&gt;&amp;nbsp;Approval / Reject&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="17" as="offset" />
+            <mxPoint x="-77" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-56" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;">
