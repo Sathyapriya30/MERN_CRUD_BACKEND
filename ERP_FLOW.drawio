@@ -134,7 +134,7 @@
             <mxPoint x="520" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XqdnJOQHn98dfQkK96ew-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Add / Edit KP&amp;nbsp;í ½í³§" vertex="1">
+        <mxCell id="XqdnJOQHn98dfQkK96ew-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Add / Edit KP" vertex="1">
           <mxGeometry height="27" width="111" x="469.5" y="568" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-37" edge="1" parent="1" source="XqdnJOQHn98dfQkK96ew-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;">
