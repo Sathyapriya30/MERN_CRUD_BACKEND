@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Addressbook DB / App" id="QRqbtuMpcw-CkGaMXXmX">
-    <mxGraphModel dx="1426" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,9 +163,6 @@
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Customer" vertex="1">
           <mxGeometry height="30" width="87" x="551.5" y="333" as="geometry" />
-        </mxCell>
-        <mxCell id="8LkMtRWojpyo3q0LtdjA-33" edge="1" parent="1" source="XqdnJOQHn98dfQkK96ew-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="XqdnJOQHn98dfQkK96ew-43" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Contact" vertex="1">
           <mxGeometry height="30" width="86" x="551.5" y="384" as="geometry" />
