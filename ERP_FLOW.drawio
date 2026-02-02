@@ -446,11 +446,19 @@
             <mxPoint x="-13" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="O-hTQ7U5d8AusZVhRMax-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152" y="1120.5" as="sourcePoint" />
+            <mxPoint x="210" y="1120.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Add / Edit KP" vertex="1">
-          <mxGeometry height="27" width="111" x="41" y="1109" as="geometry" />
+          <mxGeometry height="27" width="111" x="41" y="1108" as="geometry" />
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-49" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="Mailjet" vertex="1">
-          <mxGeometry height="120" width="107" x="213" y="1060" as="geometry" />
+          <mxGeometry height="120" width="107" x="210" y="1060" as="geometry">
+            <mxRectangle height="30" width="80" x="210" y="1060" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-50" parent="8LkMtRWojpyo3q0LtdjA-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#393C56;" value="Wishes" vertex="1">
           <mxGeometry height="30" width="107" y="30" as="geometry" />
@@ -483,6 +491,20 @@
         <mxCell id="O-hTQ7U5d8AusZVhRMax-6" connectable="0" parent="O-hTQ7U5d8AusZVhRMax-5" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontStyle=0" value="Change Status to&amp;nbsp;&lt;br&gt;Active / Prospect" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" y="83" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-hTQ7U5d8AusZVhRMax-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="Intro Letter Mail Sending" vertex="1">
+          <mxGeometry height="60" width="120" x="418" y="1091.5" as="geometry" />
+        </mxCell>
+        <mxCell id="O-hTQ7U5d8AusZVhRMax-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="317" y="1120" as="sourcePoint" />
+            <mxPoint x="417" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-hTQ7U5d8AusZVhRMax-28" parent="O-hTQ7U5d8AusZVhRMax-27" style="shape=message;html=1;outlineConnect=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="" vertex="1">
+          <mxGeometry height="14" relative="1" width="20" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
