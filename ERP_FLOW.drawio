@@ -51,7 +51,7 @@
         <mxCell id="8LkMtRWojpyo3q0LtdjA-14" edge="1" parent="1" source="XqdnJOQHn98dfQkK96ew-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8LkMtRWojpyo3q0LtdjA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XqdnJOQHn98dfQkK96ew-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="&lt;div&gt;Check&lt;/div&gt;&lt;div&gt;Customer linked to Enquiries / Qtns?&lt;/div&gt;" vertex="1">
+        <mxCell id="XqdnJOQHn98dfQkK96ew-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Is the customer linked to any Enquiries or Qtns?" vertex="1">
           <mxGeometry height="151" width="90" x="71.5" y="268" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;fontStyle=1">
@@ -66,7 +66,7 @@
         <mxCell id="XqdnJOQHn98dfQkK96ew-16" edge="1" parent="1" source="XqdnJOQHn98dfQkK96ew-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;fontStyle=1" target="XqdnJOQHn98dfQkK96ew-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XqdnJOQHn98dfQkK96ew-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Propects : 2" vertex="1">
+        <mxCell id="XqdnJOQHn98dfQkK96ew-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Prospects : 2" vertex="1">
           <mxGeometry height="20" width="80" x="272.5" y="408" as="geometry" />
         </mxCell>
         <mxCell id="XqdnJOQHn98dfQkK96ew-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" value="Company" vertex="1">
@@ -480,7 +480,7 @@
             <mxPoint x="302.5" y="354.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-hTQ7U5d8AusZVhRMax-6" connectable="0" parent="O-hTQ7U5d8AusZVhRMax-5" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="&lt;div&gt;&lt;b&gt;Move to&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Active / Propects&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="O-hTQ7U5d8AusZVhRMax-6" connectable="0" parent="O-hTQ7U5d8AusZVhRMax-5" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="&lt;div&gt;&lt;b&gt;Move to&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Active / Prospects&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" y="83" as="offset" />
           </mxGeometry>
