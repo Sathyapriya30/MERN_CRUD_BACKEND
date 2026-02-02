@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dZiJmpannB6cbguLDXdB-57" parent="1" style="childLayout=tableLayout;recursiveResize=0;shadow=1;align=center;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Assets" vertex="1">
-          <mxGeometry height="230" width="549" x="41" y="790" as="geometry" />
+          <mxGeometry height="230" width="549" x="-19" y="790" as="geometry" />
         </mxCell>
         <mxCell id="dZiJmpannB6cbguLDXdB-58" parent="dZiJmpannB6cbguLDXdB-57" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1">
           <mxGeometry height="48" width="549" as="geometry" />
@@ -326,7 +326,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dZiJmpannB6cbguLDXdB-308" parent="1" style="childLayout=tableLayout;recursiveResize=0;shadow=1;align=left;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Assets" vertex="1">
-          <mxGeometry height="230" width="257.25" x="658.5" y="790" as="geometry" />
+          <mxGeometry height="230" width="257.25" x="598.5" y="790" as="geometry" />
         </mxCell>
         <mxCell id="dZiJmpannB6cbguLDXdB-309" parent="dZiJmpannB6cbguLDXdB-308" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1">
           <mxGeometry height="48" width="257.25" as="geometry" />
@@ -381,7 +381,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dZiJmpannB6cbguLDXdB-335" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;strong data-start=&quot;2383&quot; data-end=&quot;2424&quot;&gt;Contact (KP) Conditions &amp;amp; Collections&lt;/strong&gt;&lt;br&gt;customers [status IN (1,2)], customer_contacts [status = 1]" vertex="1">
-          <mxGeometry height="30" width="579" x="38" y="758" as="geometry" />
+          <mxGeometry height="30" width="579" x="-23" y="758" as="geometry" />
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-16" edge="1" parent="1" source="8LkMtRWojpyo3q0LtdjA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="XqdnJOQHn98dfQkK96ew-51">
           <mxGeometry relative="1" as="geometry" />
@@ -397,13 +397,13 @@
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="910" as="sourcePoint" />
-            <mxPoint x="658.5" y="909.5" as="targetPoint" />
+            <mxPoint x="530" y="910" as="sourcePoint" />
+            <mxPoint x="598.5" y="909.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-21" edge="1" parent="1" source="dZiJmpannB6cbguLDXdB-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;endArrow=oval;endFill=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="910" as="targetPoint" />
+            <mxPoint x="560" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8LkMtRWojpyo3q0LtdjA-22" edge="1" parent="1" source="dZiJmpannB6cbguLDXdB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="dZiJmpannB6cbguLDXdB-324">
