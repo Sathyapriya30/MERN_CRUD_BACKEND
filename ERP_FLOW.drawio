@@ -490,7 +490,7 @@
             <mxPoint x="-5" y="83" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-hTQ7U5d8AusZVhRMax-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="Intro Letter Mail Sending" vertex="1">
+        <mxCell id="O-hTQ7U5d8AusZVhRMax-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="Automatic Intro Letter mail sent to Customer KP" vertex="1">
           <mxGeometry height="60" width="81" x="1100" y="929" as="geometry" />
         </mxCell>
         <mxCell id="O-hTQ7U5d8AusZVhRMax-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="">
