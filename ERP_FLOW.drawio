@@ -1,18 +1,4 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6" pages="9">
-  <diagram id="UG2lYEto0NfsOBYE4fc-" name="Enquiry">
-    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="myaz_Gz7QCiIKFfCveBE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add Enquiry / Pending Enquiry" vertex="1">
-          <mxGeometry height="30" width="200" x="330" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="myaz_Gz7QCiIKFfCveBE-18" parent="1" style="aspect=fixed;whiteSpace=wrap;align=left;strokeWidth=0;spacingBottom=0;spacingTop=0;spacing=1;" value="1. Enquiry number is auto generated per financial year (1st Apr 2025 –31st Mar 2026) beginning with 0001 (eg: IS250001)&#xa;2. Company Alias Name - customer collection status (1,2) conditions&#xa;3. Select KP Type (Group KP / Direct KP).&#xa;4. Static enquiry type (Regular,Project,Manual)&#xa;5. Application study Only for Project , Manual.&#xa;6. Static Subtype - Vision,PLC,IT,AI Vision(AIViz), Weighing,IT,Robot,Panel&#xa;7. Static Subtype and Enquiry Type    &#xa;IF (quick_qtn == 1  AND enquiry_type == Regular ) &#xa;        Enquiry Mode : OE / FE / OFFICE only       &#xa;        Subtype Menu : Disabled    &#xa;    else        &#xa;        Enquiry Mode Menu : Enabled (All Type)        &#xa;        Subtype Menu : Enabled&#xa;8. Assign To  - Same enquiry share to another OE/OM person (Jr,Sr view)" vertex="1">
-          <mxGeometry height="300" width="300" x="275" y="110" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram name="Addressbook DB / App" id="QRqbtuMpcw-CkGaMXXmX">
     <mxGraphModel dx="1826" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1006,6 +992,14 @@
   </diagram>
   <diagram id="3jSwwI1aJyX9QocG-c-k" name="OM Dashboard">
     <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NTwI49bNBG2W2gzljR2Z" name="Add Enquiry / Pending Enquiry">
+    <mxGraphModel dx="1426" dy="759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
