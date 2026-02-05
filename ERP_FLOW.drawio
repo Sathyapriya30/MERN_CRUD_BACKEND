@@ -1158,7 +1158,7 @@
           <mxGeometry height="54" width="90" x="786" y="-333.5" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-10" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;div&gt;Cancel&lt;/div&gt;&lt;div&gt;&amp;nbsp;(Disabled once IN time is started)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="911" y="-340.5" as="geometry" />
+          <mxGeometry height="60" width="109" x="911" y="-340.5" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-12" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;align=left;" value="&lt;div&gt;Engineer Visit Plan (IN / OUT Time)&lt;/div&gt;&lt;div&gt;Upload MOM / Visit Report / Backup&lt;/div&gt;" vertex="1">
           <mxGeometry height="51" width="198" x="738" y="-212" as="geometry" />
