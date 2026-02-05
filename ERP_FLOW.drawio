@@ -1185,7 +1185,7 @@
             <mxPoint x="352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ClJpbHuYu6vLoCbtnvaD-39" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Check this conditions" vertex="1">
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-39" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Check these conditions" vertex="1">
           <mxGeometry height="120" width="140" x="282" y="-158" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-40" parent="ClJpbHuYu6vLoCbtnvaD-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;b&gt;No App Study&amp;nbsp;&lt;/b&gt;" vertex="1">
