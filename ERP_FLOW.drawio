@@ -1103,16 +1103,16 @@
           <mxGeometry height="97" width="104" x="196" y="-310" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Regret (2)" vertex="1">
-          <mxGeometry height="40" width="100" x="429" y="2" as="geometry" />
+          <mxGeometry height="40" width="100" x="433" y="2" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-116" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="ClJpbHuYu6vLoCbtnvaD-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Add Quotation (1)" vertex="1">
-          <mxGeometry height="40" width="100" x="301" as="geometry" />
+          <mxGeometry height="40" width="100" x="305" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Skip (1)" vertex="1">
-          <mxGeometry height="40" width="100" x="148" as="geometry" />
+          <mxGeometry height="40" width="100" x="149" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-70" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="iXzhyXXxHmxrZyp7pM-u-70">
           <mxGeometry relative="1" as="geometry">
@@ -1163,7 +1163,7 @@
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-12" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;align=left;" value="&lt;div&gt;Engineer Visit Plan (IN / OUT Time)&lt;/div&gt;&lt;div&gt;Upload MOM / Visit Report / Backup&lt;/div&gt;" vertex="1">
           <mxGeometry height="51" width="198" x="738" y="-212" as="geometry" />
         </mxCell>
-        <mxCell id="ClJpbHuYu6vLoCbtnvaD-102" edge="1" parent="1" source="ClJpbHuYu6vLoCbtnvaD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="iXzhyXXxHmxrZyp7pM-u-52">
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-133" edge="1" parent="1" source="ClJpbHuYu6vLoCbtnvaD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="iXzhyXXxHmxrZyp7pM-u-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="IF App Study Enabled&lt;br&gt;(Regret / Add Quotation Button &lt;b&gt;Disabled)&lt;/b&gt;" vertex="1">
@@ -1186,16 +1186,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-39" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Check these conditions" vertex="1">
-          <mxGeometry height="120" width="140" x="282" y="-158" as="geometry" />
+          <mxGeometry height="120" width="158" x="282" y="-158" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-40" parent="ClJpbHuYu6vLoCbtnvaD-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;b&gt;No App Study&amp;nbsp;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="140" y="30" as="geometry" />
+          <mxGeometry height="30" width="158" y="30" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-41" parent="ClJpbHuYu6vLoCbtnvaD-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;b&gt;App Study Regretted&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="140" y="60" as="geometry" />
+          <mxGeometry height="30" width="158" y="60" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-42" parent="ClJpbHuYu6vLoCbtnvaD-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;b&gt;App Study Completed&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="140" y="90" as="geometry" />
+          <mxGeometry height="30" width="158" y="90" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Regret" vertex="1">
           <mxGeometry height="40" width="110" x="469" y="-250" as="geometry" />
@@ -1217,7 +1217,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Manual Qtn / Panel Qtn Generate Process" vertex="1">
-          <mxGeometry height="40" width="130" x="286" y="73" as="geometry" />
+          <mxGeometry height="40" width="130" x="290" y="73" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-117" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-49" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.438;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry relative="1" as="geometry">
