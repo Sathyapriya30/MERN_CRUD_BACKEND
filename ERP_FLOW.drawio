@@ -1008,17 +1008,13 @@
             <mxPoint x="160" y="-232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ClJpbHuYu6vLoCbtnvaD-95" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;">
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-110" edge="1" parent="1" source="43lSPNsZyOIKG7mpkxYn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-152" y="-215" />
-            </Array>
-            <mxPoint x="-155" y="-215" as="sourcePoint" />
-            <mxPoint x="-152" y="-158.99999999999977" as="targetPoint" />
+            <mxPoint x="-131" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="43lSPNsZyOIKG7mpkxYn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add Enquiry / Pending Enquiry" vertex="1">
-          <mxGeometry height="36" width="180" x="-220" y="-251" as="geometry" />
+          <mxGeometry height="36" width="180" x="-221" y="-279.5" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-19" edge="1" parent="1" source="43lSPNsZyOIKG7mpkxYn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -1115,11 +1111,14 @@
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-94" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ClJpbHuYu6vLoCbtnvaD-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXzhyXXxHmxrZyp7pM-u-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Project&lt;br&gt;(Panel)" vertex="1">
-          <mxGeometry height="40" width="104" x="196" y="-253" as="geometry" />
+        <mxCell id="iXzhyXXxHmxrZyp7pM-u-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Project (Panel)&lt;br&gt;/&lt;br&gt;Manual&lt;br&gt;Auto Generate" vertex="1">
+          <mxGeometry height="97" width="104" x="196" y="-310" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Regret (2)" vertex="1">
           <mxGeometry height="40" width="100" x="429" y="2" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-116" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ClJpbHuYu6vLoCbtnvaD-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add Quotation (1)" vertex="1">
           <mxGeometry height="40" width="100" x="301" as="geometry" />
@@ -1156,8 +1155,11 @@
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="AEDRS" vertex="1">
           <mxGeometry height="54" width="90" x="480" y="-412" as="geometry" />
         </mxCell>
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-111" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="43lSPNsZyOIKG7mpkxYn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-71" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ERP" vertex="1">
-          <mxGeometry height="54" width="90" x="-71" y="-349" as="geometry" />
+          <mxGeometry height="54" width="90" x="-175" y="-388" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-66" edge="1" parent="1" source="ClJpbHuYu6vLoCbtnvaD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -1207,11 +1209,8 @@
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-42" parent="ClJpbHuYu6vLoCbtnvaD-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="App Study Completed" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="ClJpbHuYu6vLoCbtnvaD-83" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="iXzhyXXxHmxrZyp7pM-u-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Regret" vertex="1">
-          <mxGeometry height="40" width="110" x="469" y="-253" as="geometry" />
+          <mxGeometry height="40" width="110" x="469" y="-250" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-65" edge="1" parent="1" source="ClJpbHuYu6vLoCbtnvaD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" target="ClJpbHuYu6vLoCbtnvaD-12">
           <mxGeometry relative="1" as="geometry" />
@@ -1238,6 +1237,12 @@
             <mxPoint x="352" y="-37" as="sourcePoint" />
             <mxPoint x="206" y="-0.8800000000001091" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-112" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.015;entryY=0.828;entryDx=0;entryDy=0;entryPerimeter=0;" target="iXzhyXXxHmxrZyp7pM-u-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Manual Qtn / Panel Qtn Generate Process" vertex="1">
+          <mxGeometry height="40" width="130" x="286" y="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
