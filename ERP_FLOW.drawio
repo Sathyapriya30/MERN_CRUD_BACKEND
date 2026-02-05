@@ -1157,7 +1157,7 @@
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Support&amp;nbsp;DRS" vertex="1">
           <mxGeometry height="54" width="90" x="786" y="-333.5" as="geometry" />
         </mxCell>
-        <mxCell id="ClJpbHuYu6vLoCbtnvaD-10" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="Cancel&lt;br&gt;(if started IN time means cancel button disabled)" vertex="1">
+        <mxCell id="ClJpbHuYu6vLoCbtnvaD-10" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;div&gt;Cancel&lt;/div&gt;&lt;div&gt;&amp;nbsp;(Disabled once IN time is started)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="911" y="-340.5" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-12" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;align=left;" value="&lt;div&gt;Engineer Visit Plan (IN / OUT Time)&lt;/div&gt;&lt;div&gt;Upload MOM / Visit Report / Backup&lt;/div&gt;" vertex="1">
