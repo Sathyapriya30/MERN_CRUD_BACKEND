@@ -999,12 +999,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NTwI49bNBG2W2gzljR2Z" name="Add Enquiry / Pending Enquiry">
-    <mxGraphModel dx="2226" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2384" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="43lSPNsZyOIKG7mpkxYn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add Enquiry / Pending Enquiry" vertex="1">
-          <mxGeometry height="36" width="180" x="-137" y="-152" as="geometry" />
+          <mxGeometry height="36" width="180" x="370" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-19" edge="1" parent="1" source="43lSPNsZyOIKG7mpkxYn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -1097,8 +1097,8 @@
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Regular Qtn Generate Process" vertex="1">
           <mxGeometry height="40" width="100" x="-91" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="iXzhyXXxHmxrZyp7pM-u-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;div&gt;Skip : Enquiry Collection is Created/Updated in Status (1) after redirect to Home Page&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="210" x="30" y="70" as="geometry" />
+        <mxCell id="iXzhyXXxHmxrZyp7pM-u-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;9&quot; data-is-only-node=&quot;&quot;&gt;Skip:&lt;/strong&gt; Enquiry saved with &lt;strong data-start=&quot;29&quot; data-end=&quot;43&quot;&gt;Status (1)&lt;/strong&gt; and redirected to &lt;strong data-start=&quot;62&quot; data-end=&quot;75&quot;&gt;Home Page&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="30" width="198" x="22" y="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
