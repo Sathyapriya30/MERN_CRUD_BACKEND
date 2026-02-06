@@ -433,9 +433,9 @@
             <mxPoint x="670" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8LkMtRWojpyo3q0LtdjA-35" connectable="0" parent="8LkMtRWojpyo3q0LtdjA-34" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontStyle=0" value="&lt;span&gt;Add / Skip&lt;/span&gt;" vertex="1">
+        <mxCell id="8LkMtRWojpyo3q0LtdjA-35" connectable="0" parent="8LkMtRWojpyo3q0LtdjA-34" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontStyle=0" value="&lt;span&gt;Add / Skip&lt;/span&gt;&lt;br&gt;&lt;div&gt;(Check for duplicate&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;strong data-start=&quot;71&quot; data-end=&quot;85&quot; data-is-only-node=&quot;&quot;&gt;Alias Name&lt;/strong&gt;)&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-13" y="-31" as="offset" />
+            <mxPoint x="-13" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O-hTQ7U5d8AusZVhRMax-43" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;">
