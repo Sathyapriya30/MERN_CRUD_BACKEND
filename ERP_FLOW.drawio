@@ -606,7 +606,7 @@
           <mxGeometry height="40" width="100" x="-202" y="12" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;9&quot; data-is-only-node=&quot;&quot;&gt;Skip:&lt;/strong&gt; Enquiry saved with &lt;strong data-start=&quot;29&quot; data-end=&quot;43&quot;&gt;Status (1)&lt;/strong&gt; and redirected to &lt;strong data-start=&quot;62&quot; data-end=&quot;75&quot;&gt;Home Page&lt;/strong&gt;" vertex="1">
-          <mxGeometry height="30" width="164" x="-15" y="29" as="geometry" />
+          <mxGeometry height="30" width="211" x="5.5" y="12" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-94" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="ClJpbHuYu6vLoCbtnvaD-39">
           <mxGeometry relative="1" as="geometry" />
@@ -636,7 +636,7 @@
           <mxGeometry height="40" width="105" x="305" as="geometry" />
         </mxCell>
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;b&gt;Skip&lt;/b&gt;&lt;br&gt;Active(1)" vertex="1">
-          <mxGeometry height="40" width="100" x="146" y="1" as="geometry" />
+          <mxGeometry height="40" width="100" x="61" y="-39" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-70" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;">
           <mxGeometry relative="1" as="geometry">
@@ -709,7 +709,7 @@
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-12" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;align=left;" value="&lt;div&gt;Engineer Visit Plan (&lt;b&gt;IN / OUT Time&lt;/b&gt;)&lt;/div&gt;&lt;div&gt;Upload MOM / Visit Report / Backup&lt;/div&gt;" vertex="1">
           <mxGeometry height="51" width="198" x="743" y="-212" as="geometry" />
         </mxCell>
-        <mxCell id="ClJpbHuYu6vLoCbtnvaD-133" edge="1" parent="1" source="ClJpbHuYu6vLoCbtnvaD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;" target="iXzhyXXxHmxrZyp7pM-u-52">
+        <mxCell id="N5i7vbfVrlLHOPtLkwNK-1" edge="1" parent="1" source="ClJpbHuYu6vLoCbtnvaD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="iXzhyXXxHmxrZyp7pM-u-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="IF App Study Enabled&lt;br&gt;(Regret / Add Quotation Button &lt;b&gt;Disabled)&lt;/b&gt;" vertex="1">
