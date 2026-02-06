@@ -613,7 +613,7 @@
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-94" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="ClJpbHuYu6vLoCbtnvaD-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iXzhyXXxHmxrZyp7pM-u-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;b&gt;Project (Panel)&lt;br&gt;/&lt;br&gt;Manual&lt;br&gt;&lt;/b&gt;&lt;div&gt;Set Auto Generated&lt;/div&gt;&lt;div&gt;Number&lt;/div&gt;" vertex="1">
+        <mxCell id="iXzhyXXxHmxrZyp7pM-u-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;b&gt;Project (Panel)&lt;br&gt;/&lt;br&gt;Manual&lt;br&gt;&lt;/b&gt;&lt;div&gt;(Set Auto Generated&lt;/div&gt;&lt;div&gt;Number)&lt;/div&gt;" vertex="1">
           <mxGeometry height="97" width="114" x="196" y="-310" as="geometry" />
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-137" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;fillColor=#F2CC8F;labelBackgroundColor=none;">
