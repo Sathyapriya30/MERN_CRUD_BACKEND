@@ -608,9 +608,6 @@
         <mxCell id="iXzhyXXxHmxrZyp7pM-u-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;9&quot; data-is-only-node=&quot;&quot;&gt;Skip:&lt;/strong&gt; Enquiry saved with &lt;strong data-start=&quot;29&quot; data-end=&quot;43&quot;&gt;Status (1)&lt;/strong&gt; and redirected to &lt;strong data-start=&quot;62&quot; data-end=&quot;75&quot;&gt;Home Page&lt;/strong&gt;" vertex="1">
           <mxGeometry height="30" width="164" x="-15" y="29" as="geometry" />
         </mxCell>
-        <mxCell id="ClJpbHuYu6vLoCbtnvaD-93" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="ClJpbHuYu6vLoCbtnvaD-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-94" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="ClJpbHuYu6vLoCbtnvaD-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -693,6 +690,16 @@
             </Array>
             <mxPoint x="981.5" y="-330.5" as="sourcePoint" />
             <mxPoint x="591" y="-307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPZ-QMtwWkYZgYdfnIdP-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="981" y="-350" />
+              <mxPoint x="981" y="-350" />
+            </Array>
+            <mxPoint x="981" y="-335.5" as="sourcePoint" />
+            <mxPoint x="981" y="-370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ClJpbHuYu6vLoCbtnvaD-10" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;div&gt;&lt;b&gt;Cancel&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(Disabled once IN Time is started)&lt;/div&gt;" vertex="1">
@@ -827,6 +834,14 @@
         </mxCell>
         <mxCell id="ZPZ-QMtwWkYZgYdfnIdP-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#393C56;labelBackgroundColor=default;" value="&lt;b&gt;Return&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="370" y="-239" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPZ-QMtwWkYZgYdfnIdP-15" edge="1" parent="1" source="iXzhyXXxHmxrZyp7pM-u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.454;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="ClJpbHuYu6vLoCbtnvaD-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="-186" />
+              <mxPoint x="165" y="-186" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
